@@ -244,6 +244,7 @@
       1 netsms.zip
       1 netfliz.zip
       1 netflix.security.update.zip
+      1 nats.zip
       1 mysteryshopper.zip
       1 myc.zip
       1 my.navyfederal.org (2).zip
@@ -501,6 +502,7 @@
       1 THREEBANKS2020.zip
       1 Support-Customer.zip
       1 Summary.zip
+      1 Spox
       1 Simple POS v4.0.29 Preinstalled.zip
       1 ShopifyFIX.zip
       1 Security
