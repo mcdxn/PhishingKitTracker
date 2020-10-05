@@ -142,6 +142,7 @@
       1 secure.zip
       1 secure.zip
       1 secure.bankofamerica.com.zip
+      1 secure.bankamerica.com.zip
       1 secure mine.zip
       1 secure (1).zip
       1 scriptP.zip
