@@ -119,6 +119,7 @@
       1 superiorelectronicssecurity.zip
       1 storage.zip
       1 stellar
+      1 staticsite.zip
       1 static.zip
       1 ssl(1).zip
       1 spread.zip
@@ -162,6 +163,8 @@
       1 safewaycms.zip
       1 s.zip
       1 rschwab.zip
+      1 royalclubfinalfrontend.zip
+      1 royalclbk-0-09-2020.zip
       1 revision.zip
       1 retrieving.zip
       1 resolve.zip
