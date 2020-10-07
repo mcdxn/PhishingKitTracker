@@ -100,6 +100,7 @@
       1 twmdw.zip
       1 tt.zip
       1 tt
+      1 truelegit.zip
       1 travels.zip
       1 totalbackup.zip
       1 theoffer.zip
@@ -150,6 +151,8 @@
       1 scriptP.zip
       1 script.zip
       1 scr.zip
+      1 scotiabank2.zip
+      1 scotiabank1.zip
       1 scnewregardoapple.zip
       1 scampage paypal 2020.zip
       1 scamaapatchi.zip

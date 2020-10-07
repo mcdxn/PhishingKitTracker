@@ -178,6 +178,7 @@
       1 www.legacy.ie
       1 www.kkh-group.marathonbank.org
       1 www.kimani.net
+      1 www.jmsteamengineering.co.uk
       1 www.itunesgift.touheed.net
       1 www.itaucartoes.info
       1 www.invoice.techsource-bd.com
@@ -281,6 +282,7 @@
       1 securemail.rkhobraa.com
       1 secure02admin-chase.com
       1 secure.verifingaccbilling.com
+      1 secure.scotiaonline.com.noneed.uk
       1 secure.jigthtmil.xyz
       1 secure-webapps33.com
       1 saradaniela.com
@@ -296,6 +298,7 @@
       1 rideelegance.top
       1 rhetorischemittel.de
       1 retourachat.info
+      1 reparatie-telefoane.ro
       1 reliancectg.com
       1 regencymyanmar.com
       1 refundlnterac.com
