@@ -144,6 +144,8 @@
       1 sis.zip
       1 simtebukptr.zip
       1 simpleinvoices.zip
+      1 shops20.zip
+      1 shop.zip
       1 sharepoint (1).zip
       1 service.zip
       1 seject.zip
@@ -161,6 +163,7 @@
       1 scotiabank2.zip
       1 scotiabank1.zip
       1 scnewregardoapple.zip
+      1 schedule.zip
       1 scampage paypal 2020.zip
       1 scamaapatchi.zip
       1 scam-amazon.zip
@@ -368,6 +371,7 @@
       1 fooddel.zip
       1 flix20.zip
       1 fleets (1).zip
+      1 flatdirectory.com.zip
       1 fix (1).zip
       1 firstcenturybank.zip
       1 firebasecloud.zip
@@ -439,6 +443,7 @@
       1 chronopost.zip
       1 chmV2.zip
       1 chm.zip
+      1 chatapp
       1 chasebank 2020.zip
       1 chase2020 v2.zip
       1 chase1.zip
